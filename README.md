@@ -4,7 +4,7 @@ Uber Trip Analysis Project Analyze Uber trip data using Power BI to gain insight
 <img src="uber_1658714724801_1678351059440_1678351059440.jpg" width="1000" height="500" />
 
 ## KPIs
-Total Bookings: Number of trips booked over a given period.
+- **Total Bookings**: Number of trips booked over a given period.
 - **Total Booking Value**: Total revenue generated from all bookings.
 - **Average Booking Value**: Average revenue per booking.
 - **Total Trip Distance**: Total distance covered by all trips.
