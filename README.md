@@ -3,6 +3,9 @@ Uber Trip Analysis Project Analyze Uber trip data using Power BI to gain insight
 
 <img src="uber_1658714724801_1678351059440_1678351059440.jpg" width="1000" height="500" />
 
+## Dashboard 1: Overview Analysis
+![Overview Analysis](Overview Analysis.png)
+
 ## KPIs
 - **Total Bookings**: Number of trips booked over a given period.
 - **Total Booking Value**: Total revenue generated from all bookings.
@@ -55,6 +58,8 @@ Create a grid table (matrix or table visual) to analyze key performance indicato
 - **Download Raw Data Button**: Export raw data in CSV or Excel format using Power Automate or built-in Power BI Export functionality.
   
 ## Dashboard 2: Time Analysis
+![Time Analysis](Time Analysis.png)
+
 ## Features
 - **Global Dynamic Measure**: Create a measure selector for Total Bookings, Total Booking Value, and Total Trip Distance to update all visuals based on user selection.
 
@@ -64,6 +69,8 @@ Create a grid table (matrix or table visual) to analyze key performance indicato
 - **By Hour and Time**: Heatmap (matrix grid) highlighting peak booking hours across different days.
 
 ## Dashboard 3: Details Tab
+![Details](Details.png)
+
 ## Features
 - **Grid Table with Key Fields**: Displays essential trip details.
 - **Drill-Through Functionality**: Allows users to drill through to detailed records related to selected data points.
